@@ -13,8 +13,8 @@ Students, homemakers, and small teams needing fast, frictionless expense breakdo
 
 # Phase 1: Brainstorming & Ideation
  
-- *Date:* 29 September 2026
-- *Team ID:* 08
+- *Date:* 30 September 2026
+- *Team ID:* 18
 - *Project Name:* ComicCraft - Al Comic Story Creator using Gemini Models
 - *Maximum Marks:* 3 Marks
 
@@ -24,7 +24,7 @@ Students, homemakers, and small teams needing fast, frictionless expense breakdo
 
 | S.No | Team Member | Idea / Suggestion | Category | Group No. |
 |------|-------------|-------------------|----------|-----------|
-| 1 | Lokesh | Multimodal receipt image parsing using Google Gemini 1.5 Flash API | AI Architecture & Vision | Group 08 |
-| 2 | Dharan kumar| Automated line-item expense categorization and tax breakdown | Data Processing & Logic | Group 08 |
-| 3 | Muniyappan | Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 08 |
-| 4 | Muthukumar | Budget threshold alerting and smart savings recommendations engine | Business Logic & Rules | Group 08 |
+| 1 |M Alamelu mangai | Multimodal receipt image parsing using Google Gemini 1.5 Flash API | AI Architecture & Vision | Group 18 |
+| 2 |A. Revathi| Automated line-item expense categorization and tax breakdown | Data Processing & Logic | Group 18 |
+| 3 |H.Fouziya begum  | Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 18 |
+
